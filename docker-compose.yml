@@ -1,0 +1,22 @@
+version: '3'
+services:
+  serviceJs:
+    image: hicp/env-management/service:latest
+    container_name : env-management-service
+    ports:
+      - 3008:3008
+    restart:
+      always
+    volumes:
+      - ./public:/serviceJs/public
+  client:
+    image: hicp/env-management/client:latest
+    container_name : env-management-client
+
+    ports:
+      - 3000:3000
+    restart:
+      always
+    volumes:
+      - ./public:/client/public
+ 

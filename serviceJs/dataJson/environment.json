@@ -1,0 +1,367 @@
+[
+    {
+        "id": "2b6c2675594a3367c020a5a70d8498c3",
+        "name": "Kmse",
+        "development": [
+            {
+                "id": 1,
+                "name": "dev 1.1",
+                "info": [
+                    {
+                        "id": 1,
+                        "name": "karaf",
+                        "version": "5.9",
+                        "link": "https://www.google.com/?hl=fr"
+                    },
+                    {
+                        "id": 2,
+                        "name": "play",
+                        "version": "2.6",
+                        "link": "https://www.google.com/?hl=fr"
+                    },
+                    {
+                        "id": 3,
+                        "name": "DB",
+                        "version": "1.0",
+                        "link": "https://www.google.com/?hl=fr"
+                    },
+                    {
+                        "id": 4,
+                        "name": "test",
+                        "version": "9.0",
+                        "link": "https://www.google.com/?hl=fr"
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "name": "dev 2",
+                "info": [
+                    {
+                        "id": 1,
+                        "name": "karaf",
+                        "version": "5.9",
+                        "link": "https://www.google.com/?hl=fr"
+                    },
+                    {
+                        "id": 2,
+                        "name": "play",
+                        "version": "2.6",
+                        "link": "https://www.google.com/?hl=fr"
+                    },
+                    {
+                        "id": 3,
+                        "name": "DB",
+                        "version": "1.0",
+                        "link": "https://www.google.com/?hl=fr"
+                    },
+                    {
+                        "id": 4,
+                        "name": "test",
+                        "version": "9.0",
+                        "link": "https://www.google.com/?hl=fr"
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "name": "dev 3",
+                "info": [
+                    {
+                        "id": 1,
+                        "name": "karaf",
+                        "version": "5.9",
+                        "link": "https://www.google.com/?hl=fr"
+                    },
+                    {
+                        "id": 2,
+                        "name": "play",
+                        "version": "2.6",
+                        "link": "https://www.google.com/?hl=fr"
+                    },
+                    {
+                        "id": 3,
+                        "name": "DB",
+                        "version": "1.0",
+                        "link": "https://www.google.com/?hl=fr"
+                    }
+                ]
+            }
+        ],
+        "test": [
+            {
+                "id": 1,
+                "name": "test asa 2",
+                "info": [
+                    {
+                        "id": 1,
+                        "name": "karaf",
+                        "version": "5.9",
+                        "link": ""
+                    },
+                    {
+                        "id": 2,
+                        "name": "play",
+                        "version": "2.6",
+                        "link": ""
+                    },
+                    {
+                        "id": 3,
+                        "name": "DB",
+                        "version": "1.0",
+                        "link": ""
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "name": "test asa 6",
+                "info": [
+                    {
+                        "id": 1,
+                        "name": "karaf",
+                        "version": "5.9",
+                        "link": ""
+                    },
+                    {
+                        "id": 2,
+                        "name": "play",
+                        "version": "2.6",
+                        "link": ""
+                    },
+                    {
+                        "id": 3,
+                        "name": "DB",
+                        "version": "1.0",
+                        "link": ""
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "name": "test asa 9",
+                "info": [
+                    {
+                        "id": 1,
+                        "name": "karaf",
+                        "version": "5.9",
+                        "link": ""
+                    },
+                    {
+                        "id": 2,
+                        "name": "play",
+                        "version": "2.6",
+                        "link": ""
+                    },
+                    {
+                        "id": 3,
+                        "name": "DB",
+                        "version": "1.0",
+                        "link": ""
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "name": "test asa 3",
+                "info": [
+                    {
+                        "id": 1,
+                        "name": "karaf",
+                        "version": "5.9",
+                        "link": ""
+                    },
+                    {
+                        "id": 2,
+                        "name": "play",
+                        "version": "2.6",
+                        "link": ""
+                    },
+                    {
+                        "id": 3,
+                        "name": "DB",
+                        "version": "1.0",
+                        "link": ""
+                    }
+                ]
+            }
+        ],
+        "performance": [
+            {
+                "id": 1,
+                "name": "test",
+                "info": [
+                    {
+                        "id": 1,
+                        "name": "karaf",
+                        "version": "5.9",
+                        "link": ""
+                    },
+                    {
+                        "id": 2,
+                        "name": "play",
+                        "version": "2.6",
+                        "link": ""
+                    },
+                    {
+                        "id": 3,
+                        "name": "DB",
+                        "version": "1.0",
+                        "link": ""
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "name": "test",
+                "info": [
+                    {
+                        "id": 1,
+                        "name": "karaf",
+                        "version": "5.9",
+                        "link": ""
+                    },
+                    {
+                        "id": 2,
+                        "name": "play",
+                        "version": "2.6",
+                        "link": ""
+                    },
+                    {
+                        "id": 3,
+                        "name": "DB",
+                        "version": "1.0",
+                        "link": ""
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "name": "test",
+                "info": [
+                    {
+                        "id": 1,
+                        "name": "karaf",
+                        "version": "5.9",
+                        "link": ""
+                    },
+                    {
+                        "id": 2,
+                        "name": "play",
+                        "version": "2.6",
+                        "link": ""
+                    },
+                    {
+                        "id": 3,
+                        "name": "DB",
+                        "version": "1.0",
+                        "link": ""
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "name": "test 6",
+                "info": [
+                    {
+                        "id": 1,
+                        "name": "karaf",
+                        "version": "5.9",
+                        "link": ""
+                    },
+                    {
+                        "id": 2,
+                        "name": "play",
+                        "version": "2.6",
+                        "link": ""
+                    },
+                    {
+                        "id": 3,
+                        "name": "DB",
+                        "version": "1.0",
+                        "link": ""
+                    }
+                ]
+            }
+        ],
+        "demo": [
+            {
+                "id": "e76ba572315dddb2ba296a3a1e12717f",
+                "name": "macif",
+                "logo": {
+                    "url": "/img/logos/macif.svg",
+                    "type": "svg",
+                    "width": "158"
+                },
+                "ip_play": "192.168.0.120",
+                "port_play": "9003",
+                "ip_karaf": "192.168.0.124",
+                "port_karaf": "8182",
+                "accessPLay": "accessmacifPlay",
+                "accessKaraf": "accessmacifkaraf"
+            },
+            {
+                "id": "8ec93a743a79d3647e6eae51ee9a9503",
+                "name": "kmse",
+                "logo": {
+                    "url": "/img/logos/kmse.png",
+                    "type": "png",
+                    "width": "254"
+                },
+                "ip_play": "192.168.0.120",
+                "port_play": "9004",
+                "ip_karaf": "192.168.0.124",
+                "port_karaf": "8182",
+                "accessPLay": "accesskmsePlay",
+                "accessKaraf": "accesskmsekaraf"
+            },
+            {
+                "id": "004ad97fc8ff51c8103b129ae790ef0e",
+                "name": "star",
+                "logo": {
+                    "url": "/img/logos/star.svg",
+                    "type": "svg",
+                    "width": "211"
+                },
+                "ip_play": "192.168.0.120",
+                "port_play": "9002",
+                "ip_karaf": "192.168.0.124",
+                "port_karaf": "8182",
+                "accessPLay": "accessstarPlay",
+                "accessKaraf": "accessstarkaraf"
+            },
+            {
+                "id": "25e96af0ac8d158d5563dc6f5dbff968",
+                "name": "apivia",
+                "logo": {
+                    "url": "/img/logos/Apivia.svg",
+                    "type": "svg",
+                    "width": "211"
+                },
+                "ip_play": "192.168.0.120",
+                "port_play": "9007",
+                "ip_karaf": "192.168.0.124",
+                "port_karaf": "8182",
+                "accessPLay": "accessapiviaPlay",
+                "accessKaraf": "accessapiviakaraf"
+            },
+            {
+                "id": "c795a503b44028e22710cb24522c1e4b",
+                "name": "groupama",
+                "logo": {
+                    "url": "/img/logos/groupama.svg",
+                    "type": "svg",
+                    "width": "240"
+                },
+                "ip_play": "192.168.0.120",
+                "port_play": "8989",
+                "ip_karaf": "192.168.0.124",
+                "port_karaf": "8182",
+                "accessPLay": "accessgroupamaPlay",
+                "accessKaraf": "accessgroupamakaraf"
+            }
+        ],
+        "platforme": []
+    }
+   
+]

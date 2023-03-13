@@ -1,0 +1,35 @@
+{
+  "name": "asa-envi",
+  "version": "1.0.0",
+  "description": "It's an authentication micro-service",
+  "main": "index.js",
+  "author": "Asa Dev Team",
+  "license": "MIT",
+  "scripts": {
+    "start": " node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "basic-auth": "^2.0.1",
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.3",
+    "express-fileupload": "^1.4.0",
+    "joi": "^17.7.1",
+    "joi-objectid": "^4.0.2",
+    "jsonwebtoken": "^9.0.0",
+    "multer": "^1.4.5-lts.1",
+    "passport": "^0.4.1",
+    "passport-jwt": "^4.0.0",
+    "passport-local": "^1.0.0",
+    "pm2": "^5.2.2",
+    "request": "^2.88.2",
+    "socket.io": "^4.5.4",
+    "url-status-code": "^2.0.0"
+  },
+  "optionalDependencies": {
+    "bufferutil": "^4.0.7",
+    "utf-8-validate": "^5.0.10"
+  }
+}

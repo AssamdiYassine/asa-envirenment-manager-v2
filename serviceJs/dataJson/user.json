@@ -1,0 +1,20 @@
+[ {
+        "id":1,
+        "firstname":"asa",
+        "lastname":"techno",
+        "email":"admin@asa.com",
+        "password":"Asa@2023",
+        "role": "master"
+   
+ } ,
+  {
+        "id":8,
+        "firstname":"user",
+        "lastname":"techno",
+        "email":"user@asa.com",
+        "password":"User@2023",
+        "role": "user"
+   
+ } 
+]
+ 
