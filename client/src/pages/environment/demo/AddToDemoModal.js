@@ -43,6 +43,8 @@ import Image from "react-bootstrap/Image";
           reader.onloadend = () => {
             setBrandcompanyThumbnail(reader.result);
             setBrandcompany(file);
+
+            
           };
           reader.readAsDataURL(file);
         }
